@@ -32,7 +32,7 @@
 .cm-s-base16-tomorrow-dark .cm-link {color: #cc6666;}
 
 .cm-s-base16-tomorrow-dark .cm-error,
-.cm-s-base16-tomorrow-dark .cm-invalidchar {color: #ffffff !important; background: #cc6666;}
+.cm-s-base16-tomorrow-dark .cm-invalidchar {color: #ffffff !important;}
 
 .cm-s-base16-tomorrow-dark.CodeMirror {
     background: #1d1f21;
